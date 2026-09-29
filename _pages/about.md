@@ -2,33 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 本科生 · 应用心理学 <a href="https://www.cauc.edu.cn/">中国民航大学</a> 安全科学与工程学院
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
+  address:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+news: true
+latest_posts: false
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+你好！我是**倪紫薇**，中国民航大学安全科学与工程学院应用心理学专业本科生（2023 年入学，预计 2027 年毕业），专业成绩 3.73/4.0，专业排名 2/32，连续两年位列专业第一，曾获**国家奖学金**、中国民航大学人民一等奖学金、优秀大学生干部、优秀共青团干部等荣誉。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+我的研究兴趣聚焦于人因工程与认知方向，曾作为**负责人**主持省部级大学生创新项目《心理特征对认知性警戒作业疲劳的影响》，采用 2×2 混合实验设计与生理监测手段考察警戒作业中的疲劳机制；并编制完成《大学生消费动机倾向量表》（克隆巴赫 α=0.812，KMO=0.716，基于 200 余名本科生施测数据）。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+我擅长数学建模与数据分析：曾两次担任全国大学生数学建模竞赛队长兼建模手，获"华数杯"全国三等奖、"高教社杯"省级二等奖；获全国大学生物理实验竞赛（创新）省级三等奖。熟练使用 Python、MATLAB、LaTex 与 SPSS 等工具。
+
+除科研外，我担任朋辈学业导师（所带小组绩点平均提升 0.39，获评"优秀朋辈导师"）、班长与学院融媒体通讯部干事，连续两年获得校级通报表扬。
+
+**目前我已推免至华东师范大学心理与认知科学学院，欢迎交流人因工程、认知心理学与数据分析相关话题。**
+
+联系邮箱：<a href='mailto:ziiwii_ni@163.com'>ziiwii_ni@163.com</a>
